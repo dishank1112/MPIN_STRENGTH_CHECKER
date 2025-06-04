@@ -1,6 +1,9 @@
 Hello Everyone, Welcome to the Readme of this Project.
 I am Dishank Jain from AI-Branch(skit-jaipur). And I have build the Solution within 2 days of the Data Science Assignment by One Banc.
 ---------------------------------------------------------------------------------------------------------
+
+github Link => https://github.com/dishank1112/MPIN_STRENGTH_CHECKER
+---------------------------------------------------------------------------------------------------------
 Problem Statement =>
 Read about MPIN that is used to access mobile banking apps. Many a times users end up setting an MPIN that is
 guessable because
