@@ -1,6 +1,6 @@
 Hello Everyone, Welcome to the Readme of this Project.
 I am Dishank Jain from AI-Branch(skit-jaipur). And I have build the Solution within 2 days of the Data Science Assignment by One Banc.
-
+---------------------------------------------------------------------------------------------------------
 Problem Statement =>
 Read about MPIN that is used to access mobile banking apps. Many a times users end up setting an MPIN that is
 guessable because
@@ -10,6 +10,10 @@ could be 0201 or 9802 or 0201 etc. Demographics such as these could be used alon
 a. DOB
 b. Wedding Anniversary
 c. Spouse birthday
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 1. ABOUT THE SOLUTION->
